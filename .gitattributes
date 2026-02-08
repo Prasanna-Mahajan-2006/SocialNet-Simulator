@@ -1,0 +1,8 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Force LF (Linux/Mac) line endings for shell scripts
+*.sh text eol=lf
+
+# Force CRLF (Windows) line endings for batch files
+*.bat text eol=crlf
