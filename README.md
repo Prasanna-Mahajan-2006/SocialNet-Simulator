@@ -1,9 +1,6 @@
-# BTech-Projects
-This repository contains the documentation of all the projects that i have undertaken as an undergrad at the Department of Electrical Engineering, Indian Institute of Technology, Delhi.
-
 # SOCIAL NET SIMULATOR
 
-This project implements the basic functionality of a Social Network Application using the concepts of Data Structures and Algorithms
+This project implements the basic functionality of a Social Network Application using the concepts of Data Structures and Algorithms, and was undertaken as part of the course COL106 (Data Structures and Algorithms) at IIT Delhi
 
 ## Features
 
